@@ -14,8 +14,8 @@
   align-items: center;
   justify-content: center;
   width: 360px;
-  height: 360px;
-  background-color: #cccccc;
+  height: 0;
+  background-color: #ccc;
 }
 
 .cell {
